@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo Palhares</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=palharez" alt="palharez" /> </div>
 
 - 🔭 I’m currently working on **Raizs**
 
