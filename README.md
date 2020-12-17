@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **xeduardopalhares@gmail.com**
 
-</p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=palharez&show_icons=true" alt="palharez" /> </p>
 
 <p align="center">
 <a href="https://dev.to/palharez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="palharez" height="20" width="20" /></a>
