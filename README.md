@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Raizs**
 
-- 🌱 I’m currently learning Algorithms and Data Structures
+- 🌱 I’m currently learning Full Stack Development
 
 - 📝 I regulary write articles on [https://palharez.github.io/blog/](https://palharez.github.io/blog/)
 
