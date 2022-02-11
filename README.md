@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Design Patterns**
 
-- 📝 I regulary write articles on [https://palharez.github.io/blog/](https://palharez.github.io/blog/)
-
 - 💬 Ask me about **Python or JavaScript**
 
 - 📫 How to reach me **xeduardopalhares@gmail.com**
