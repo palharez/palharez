@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Raizs**
 
-- 🌱 I’m currently learning **Design Patterns**
+- 🌱 I’m currently learning **Competitive Programming**
 
 - 💬 Ask me about **Python or JavaScript**
 
