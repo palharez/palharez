@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python or JavaScript**
 
-- 📫 How to reach me **xeduardopalhares@gmail.com**
+- 📫 How to reach me **eduardo@palharez.dev**
 
 
 <p align="center">
