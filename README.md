@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Raizs**
 
-- 🌱 I’m currently learning **Dynamic Programming**
+- 🌱 I’m currently learning **Greedy Algo**
 
 - 💬 Ask me about **Python or JavaScript**
 
