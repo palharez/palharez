@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo Palhares</h1>
 <h3 align="center">A software developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Raizs**
+- 🔭 I’m working on **Raizs**
 
 - 🌱 I’m currently reading **Fluent Python** book
 
