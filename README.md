@@ -3,8 +3,6 @@
 
 - 🔭 I’m working on **Raizs**
 
-- 🌱 I’m currently learning **Rust Language**
-
 - 💬 Ask me about **Python or JavaScript**
 
 - 📫 How to reach me **eduardo@palharez.dev**
