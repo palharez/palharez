@@ -3,7 +3,7 @@
 
 - 🔭 I’m working on **Raizs**
 
-- 🌱 I’m currently reading **Fluent Python** book
+- 🌱 I’m currently learning **Rust Language**
 
 - 💬 Ask me about **Python or JavaScript**
 
