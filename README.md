@@ -1,29 +1,27 @@
-<h1 align="center">👋 Oi, eu sou o Eduardo Palhares</h1>
+<h1 align="center">👋 Hi, I’m Eduardo Palharess</h1>
 
-### Sobre
+## About
+I’m a Software Engineer focused on backend and data engineering, with hands-on experience integrating services, building data pipelines, and automating real-world workflows.
 
-Sou Software Engineer focado em backend e engenharia de dados, com experiência em integrações entre serviços, construção de pipelines de dados e automação de processos.
+Day to day, I work with Node.js, TypeScript, Python, SQL, and AWS services (S3, Glue, Athena, Lambda, CDK, and more).
 
-No dia a dia trabalho com Node.js, TypeScript, Python, SQL e serviços da AWS (S3, Glue, Athena, Lambda, CDK, entre outros).
+## What you’ll find here
+- Backend APIs and services
+- Data pipelines and data engineering experiments
+- Scripts, CLIs, and automations to solve real problems
+- Projects I use to learn, validate ideas, and level up
 
-### O que você vai encontrar aqui
-
-- APIs e serviços de **backend**
-- Pipelines de **dados** e experimentos de data engineering
-- Scripts, CLIs e automações pra resolver problema real
-- Projetos que uso pra estudar e testar ideias
-
-### Stack
-
-- **Linguagens:** Node.js, TypeScript, JavaScript, Python, SQL  
-- **Dados:** PostgreSQL, PySpark, ETL/ELT, Data Lakes  
+## Stack
+- **Languages:** Node.js, TypeScript, JavaScript, Python, SQL  
+- **Data:** PostgreSQL, PySpark, ETL/ELT, Data Lakes  
 - **Cloud:** AWS (S3, Glue, Athena, Lambda, CloudWatch, CDK)  
-- **Outros:** Docker, integrações entre APIs e serviços  
+- **Other:** Docker, API/service integrations
 
-### Onde me encontrar
-
+## Where to find me
 - <a href="https://palharez.dev">Website</a>
 - <a href="https://www.linkedin.com/in/eduardopalhares/">LinkedIn</a>
 - <a href="https://twitter.com/palharez_">Twitter</a>
 - <a href="https://palharez.notion.site/Eduardo-Palhares-Freelancer-e-Consultoria-Backend-Dados-Automa-o-2ba1a50a91e68019abcaeb0685f5b84a">Frelance & Consultoria</a>
 
+## Freelance & Consulting
+Open to freelance/consulting work — feel free to reach out.
