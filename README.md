@@ -22,6 +22,3 @@ Day to day, I work with Node.js, TypeScript, Python, SQL, and AWS services (S3, 
 - <a href="https://www.linkedin.com/in/eduardopalhares/">LinkedIn</a>
 - <a href="https://twitter.com/palharez_">Twitter</a>
 - <a href="https://palharez.notion.site/Eduardo-Palhares-Freelancer-e-Consultoria-Backend-Dados-Automa-o-2ba1a50a91e68019abcaeb0685f5b84a">Frelance & Consultoria</a>
-
-## Freelance & Consulting
-Open to freelance/consulting work — feel free to reach out.
