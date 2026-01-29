@@ -5,7 +5,7 @@ I’m a Software Engineer focused on backend and cloud-native systems, with stro
 
 In my day-to-day work, I design and maintain backend services and data flows using Node.js, TypeScript, Python, SQL, and AWS. My focus is on reliability, clear interfaces between systems, and solutions that actually reduce operational complexity.
 
-I usually work with end-to-end ownership — from understanding the problem and defining the architecture to implementing, deploying, and maintaining production-ready systems.
+I usually work with end-to-end ownership, from understanding the problem and defining the architecture to implementing, deploying, and maintaining production-ready systems.
 
 ## What you’ll find here
 - Backend APIs and cloud-native services  
