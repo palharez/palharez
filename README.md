@@ -14,12 +14,6 @@ I usually work with end-to-end ownership, from understanding the problem and def
 - Scripts, CLIs, and internal tools to solve real problems  
 - Projects I use to validate ideas and deepen my understanding of system design  
 
-## Stack
-- **Languages:** JavaScript (Node.js), TypeScript, Python, SQL  
-- **Backend & Data:** APIs, ETL/ELT pipelines, PostgreSQL, PySpark  
-- **Cloud:** AWS (Lambda, S3, Glue, Athena, CloudWatch, CDK)  
-- **Infrastructure & Tools:** Docker, service integrations, internal SDKs/CLIs  
-
 ## Where to find me
 - <a href="https://palharez.dev">Website</a>  
 - <a href="https://www.linkedin.com/in/eduardopalhares/">LinkedIn</a>  
